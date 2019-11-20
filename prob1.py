@@ -17,7 +17,7 @@ x = x.tolist()
 
 y2 = []
 for x_coord in x:
-    y2.append(misc.derivative(f, x_coord, dx=1e-8))
+    y2.append(misc.derivative(f, x_coord, dx=1e-8, n=2))
 plt.figure(figsize=(16, 10))
 sns.scatterplot(x, y2)
 plt.grid()
