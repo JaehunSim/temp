@@ -12,20 +12,12 @@ def f(x, e=0.1):
     result = math.exp(-1*(abs(x)-e)**2 / (4*e**2 - x**2))
     return result
 
-def f1(x, e=0.1):
-    d = 0.00000001
-    return (f(x) - f(x-d)) / d
-
-def f2(x, e=0.1):
-    d = 0.00000001
-    return (f1(x) - f1(x-d)) / d
-
 x = np.arange(-0.3, 0.30001, 0.00005)
 x = x.tolist()
 
 y2 = []
 for x_coord in x:
-    y2.append(misc.derivative(f, x_coord))
+    y2.append(misc.derivative(f, x_coord, dx=1e-8))
 plt.figure(figsize=(16, 10))
 sns.scatterplot(x, y2)
 plt.grid()
