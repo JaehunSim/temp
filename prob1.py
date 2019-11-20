@@ -2,6 +2,7 @@ import math
 import seaborn as sns
 from matplotlib import pyplot as plt
 import numpy as np
+from scipy import misc
 
 def f(x, e=0.1):
     if -1*e <= x <= e:
@@ -22,22 +23,9 @@ def f2(x, e=0.1):
 x = np.arange(-0.3, 0.30001, 0.00005)
 x = x.tolist()
 
-f(0.15)
-f1(0.15)
-f2(0.15)
-
-
-y1 = []
-for x_coord in x:
-    y1.append(f1(x_coord))
-plt.figure(figsize=(16, 10))
-sns.scatterplot(x, y1)
-plt.grid()
-plt.show()
-
 y2 = []
 for x_coord in x:
-    y2.append(f2(x_coord))
+    y2.append(misc.derivative(f, x_coord))
 plt.figure(figsize=(16, 10))
 sns.scatterplot(x, y2)
 plt.grid()
