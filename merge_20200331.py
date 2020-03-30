@@ -9,3 +9,4 @@ ncc2 = pd.DataFrame([[0.2, 0.5, 0.4, 0.6], [0.8, 0.9, 0.2, 0.1], [0.5, 0.7, 0.9,
                     columns=[5, 6, 7, 8])
 
 data = pd.merge(ncc2, ncc1, how="outer", left_index=True, right_index=True)
+data = data.fillna(0)
