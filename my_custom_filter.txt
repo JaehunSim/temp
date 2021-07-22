@@ -8,11 +8,31 @@
 !
 ! KoreanList and EasyList combination subscription
 !
-||koreapas.com/bbs/data/*/*.gif
-||koreapas.com/bbs/data/*/*.jpg
 ||koreapas.com/bbs/data/*/*.*
-||koreapas.com/bbs/*/*.*
-||koreapas.com/bbs/diskn/sticker/183.png
+||koreapas.com/bbs/athe/koreaplaza_pc2.png
+||koreapas.com/bbs/athe/*.png
+||koreapas.com/bbs/athe/*.jpg
+||i.imgur.com/*.gif
+||mangacat2.net/bn/-.gif
+||mangacat2.net/bn/ten1.gif
+||mangacat2.net/bn/*.gif
+||image6.coupangcdn.com/image/vendor_inventory/5087/28c161cd4251c92f9de7adbeefe240e86c3516fdecde562a08dcafa4d98a.jpg
+||api.hiyobi.me/dist/*/*.gif
+||koreapas.com/bbs/data/*/*.png
+||koreapas.com/bbs/data/-/-.jpg
+||koreapas.com/bbs/data/*/*.jpg
+||cloudaaaa.com/c/*.gif
+||coinpan.com/files/banner/*.png
+||coinpan.com/files/banner/*.gif
+||coinpan.com/files/banner/*.jpg
+koreapas.com###honey
+koreapas.com##span.nanum-g
+koreapas.com###span[class="nanum-g"]
+koreapas.com##iframe[src*="coupa.ng"]
+naver.com###NM_TOP_BANNER
+investing.com###abPopup
+op.gg###runeterra_content
+||hankyung.com/photo/pubdata/*.jpg
 ! *** koreanlist.txt ***
 ! Licence: https://easylist.to/pages/licence.html
 !
