@@ -8,6 +8,7 @@
 !
 ! KoreanList and EasyList combination subscription
 !
+||hankyung.com###layout-inner
 ||koreapas.com/bbs/data/*/*.*
 ||koreapas.com/bbs/athe/koreaplaza_pc2.png
 ||koreapas.com/bbs/athe/*.png
