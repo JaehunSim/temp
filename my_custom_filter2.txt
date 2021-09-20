@@ -30,6 +30,8 @@ koreapas.com###honey
 koreapas.com##span.nanum-g
 koreapas.com###span[class="nanum-g"]
 koreapas.com##iframe[src*="coupa.ng"]
+finance.yahoo.com###Lead-0-Ad-Proxy
+finance.yahoo.com###mrt-node-Lead-0-Ad
 naver.com###NM_TOP_BANNER
 investing.com###abPopup
 op.gg###runeterra_content
