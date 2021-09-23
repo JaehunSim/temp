@@ -22,6 +22,7 @@
 ||koreapas.com/bbs/data/*/*.png
 ||koreapas.com/bbs/data/-/-.jpg
 ||koreapas.com/bbs/data/*/*.jpg
+||koreapas.com/bbs/only_koreapas/*.jpg
 ||cloudaaaa.com/c/*.gif
 ||coinpan.com/files/banner/*.png
 ||coinpan.com/files/banner/*.gif
