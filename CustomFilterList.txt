@@ -1,0 +1,39 @@
+[Adblock Plus 2.0]
+! Checksum: TzVe9/6gjsACmFl27qVHow
+! Version: 202002261152
+! Title: CustomFilterList
+! Last modified: 26 Feb 2020 11:52 UTC
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/JaehunSim/temp
+!
+! KoreanList and EasyList combination subscription
+!
+||hankyung.com###layout-inner
+||koreapas.com/bbs/data/*/*.*
+||koreapas.com/bbs/athe/koreaplaza_pc2.png
+||koreapas.com/bbs/athe/*.png
+||koreapas.com/bbs/athe/*.jpg
+||i.imgur.com/*.gif
+||mangacat2.net/bn/-.gif
+||mangacat2.net/bn/ten1.gif
+||mangacat2.net/bn/*.gif
+||image6.coupangcdn.com/image/vendor_inventory/5087/28c161cd4251c92f9de7adbeefe240e86c3516fdecde562a08dcafa4d98a.jpg
+||api.hiyobi.me/dist/*/*.gif
+||koreapas.com/bbs/data/*/*.png
+||koreapas.com/bbs/data/-/-.jpg
+||koreapas.com/bbs/data/*/*.jpg
+||koreapas.com/bbs/only_koreapas/*.jpg
+||cloudaaaa.com/c/*.gif
+||coinpan.com/files/banner/*.png
+||coinpan.com/files/banner/*.gif
+||coinpan.com/files/banner/*.jpg
+koreapas.com###honey
+koreapas.com##span.nanum-g
+koreapas.com###span[class="nanum-g"]
+koreapas.com##iframe[src*="coupa.ng"]
+finance.yahoo.com###Lead-0-Ad-Proxy
+finance.yahoo.com###mrt-node-Lead-0-Ad
+naver.com###NM_TOP_BANNER
+investing.com###abPopup
+op.gg###runeterra_content
+google.com###bottomads
