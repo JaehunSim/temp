@@ -1,0 +1,53 @@
+www.koreapas.com###bonmoon span
+www.koreapas.com###cTitle4190821 > span.reply2btn:nth-of-type(2)
+www.koreapas.com###dqResizedImage0
+www.koreapas.com###re0
+www.koreapas.com###re0 > td
+www.koreapas.com###re0 > td > table > tbody > tr > .hansb
+www.koreapas.com###right
+www.koreapas.com###topad_talbe
+www.koreapas.com##.b_background_jjin
+www.koreapas.com##.chat-container
+www.koreapas.com##.pic_bg > tbody > tr > td > span > span
+www.koreapas.com##.sharpen
+www.koreapas.com##[href="http://bit.ly/43qnHWV"] > .sharpen
+www.koreapas.com##[href="https://bit.ly/3LEumWi"]
+www.koreapas.com##[href="https://bit.ly/4bwz6IR"] > .dd_back
+www.koreapas.com##[href] > .dd_back
+www.koreapas.com##[id^="cid"] > tbody > tr > .hansb > span
+www.koreapas.com##div > div > div > .nanum-g
+www.koreapas.com##div > ins
+www.koreapas.com##span.reply2btn:nth-of-type(2)
+www.koreapas.com##span.reply2btn:nth-of-type(2)
+www.koreapas.com##table#re0.bd_border.bd_back > tbody > tr > td > table > tbody > tr > td
+www.koreapas.com##table#re0.bd_border.bd_back > tbody > tr > td > table > tbody > tr > td
+www.koreapas.com##table#re0.bd_border.bd_back:nth-of-type(n) > tbody > tr > td:nth-of-type(1) > table > tbody > tr > td:nth-of-type(1) > *
+www.koreapas.com##table.bd_border.bd_back:nth-of-type(13)
+www.koreapas.com##table.bd_border:nth-of-type(3) > tbody > tr > .bd_color
+www.koreapas.com##table:nth-of-type(2) > tbody > tr > td:nth-of-type(2) > div:nth-of-type(2)
+www.koreapas.com##td > [href="http://bit.ly/43qnHWV"] > .sharpen
+www.koreapas.com##td > [href="https://bit.ly/zip-talk"]
+www.koreapas.com##td > [href="https://www.koreapas.com/bbs/ins.php"]
+www.koreapas.com##td > [href^="https://www.koreapas.com/bbs/go.php"]
+www.koreapas.com##td > [href^="https://www.koreapas.com/bbs/smart.php"]
+www.koreapas.com##td > div > [href="http://cafe.naver.com/takestar"]
+www.koreapas.com##td > div > [href^="https://www.koreapas.com/bbs/go.php"]
+www.koreapas.com##td > div > [href^="https://www.koreapas.com/shop/store_detail.php"]
+www.koreapas.com##td:nth-of-type(n) > span:nth-of-type(3)
+www.koreapas.com##tr > .mbox.sm
+www.koreapas.com##tr.list0 > .roboto
+www.koreapas.com##tr.list0 > .roboto > span
+www.koreapas.com##tr.list0:nth-of-type(n) > .nanum-g.eng.sm > *
+www.koreapas.com##tr.list0:nth-of-type(n) > td.b_left.sm.eng:nth-of-type(4)
+www.koreapas.com##tr.list0:nth-of-type(n) > td:nth-of-type(n) > span:nth-of-type(2)
+www.koreapas.com##tr.list1 > .roboto
+www.koreapas.com##tr.list1 > .roboto > span
+www.koreapas.com##tr.list1:nth-of-type(n) > .nanum-g.eng.sm > *
+www.koreapas.com##tr.list1:nth-of-type(n) > td.b_left.sm.eng:nth-of-type(4)
+www.koreapas.com##tr.list1:nth-of-type(n) > td:nth-of-type(n) > span:nth-of-type(2)
+www.koreapas.com##tr.list_notice > td
+www.koreapas.com##div > table > tbody > tr > td > [src]
+www.koreapas.com##div > [href^="https://www.koreapas.com/bbs/sugang_result.php"]
+www.koreapas.com###banner
+www.koreapas.com##table:nth-of-type(5) > tbody > tr > td > div
+www.koreapas.com##.chat-container-wrapper
