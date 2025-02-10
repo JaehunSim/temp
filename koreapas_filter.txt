@@ -53,4 +53,4 @@ www.koreapas.com##table:nth-of-type(5) > tbody > tr > td > div
 www.koreapas.com##.chat-container-wrapper
 www.koreapas.com##.realcon > div > span
 www.koreapas.com##[id^="re"] > tbody > tr:nth-of-type(4) > td > div:nth-child(1) > span:nth-child(2)
-www.koreapas.com##house_ad
+www.koreapas.com###house_ad
